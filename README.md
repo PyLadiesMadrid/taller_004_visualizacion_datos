@@ -5,10 +5,10 @@
 
 ## Agenda:
 
-• Creación de Series y DataFrames
-• Lectura de datos desde fichero
-• Filtrado y Manipulación de los datos
-• Representación gráfica
+* Creación de Series y DataFrames
+* Lectura de datos desde fichero
+* Filtrado y Manipulación de los datos
+* Representación gráfica
 
 
 ## Impartido por:
